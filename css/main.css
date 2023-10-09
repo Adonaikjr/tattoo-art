@@ -1898,6 +1898,7 @@ form input.margin-l, form textarea.margin-l {
      -moz-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
+          height: 100%;
 }
 @media only screen and (min-width: 1200px) {
   .logo {
